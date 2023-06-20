@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: node-deployment
-        image: nandhini1618/samplenodejs:latest
+        image: nandhini1618/testnode:latest
         resources:
           limits:
             memory: "1Gi"
